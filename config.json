@@ -1,8 +1,8 @@
 {
   "ownerNumber": ["6289503279901@s.whatsapp.net"],
-  "ownerName": ["FLOW STORE ID"],
-  "botName": "FLOW MD",
-  "buttonName": "Youtube Official",
+  "ownerName" : [ "FLOW STORE ID" ],
+  "namabot" : "FLOW STORE ID",
+  "buttonName" : "Youtube Resmi" ,
   "buttonLink": "https://youtube.com/channel/UC1FN2bNv9eVzqBBwfmSjUQw",
   "buttonName2": "Instagram",
   "buttonLink2": "-",
